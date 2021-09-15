@@ -1,0 +1,19 @@
+{
+    "name": "FredericRP.Tips.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "Unity.TextMeshPro",
+        "FredericRP.BucketGenerator.Runtime",
+        "FredericRP.Singleton.Runtime",
+        "FredericRP.AssetBundleTool.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
