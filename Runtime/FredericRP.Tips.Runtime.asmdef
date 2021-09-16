@@ -4,8 +4,7 @@
     "references": [
         "Unity.TextMeshPro",
         "FredericRP.BucketGenerator.Runtime",
-        "FredericRP.Singleton.Runtime",
-        "FredericRP.AssetBundleTool.Runtime"
+        "FredericRP.Singleton.Runtime"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

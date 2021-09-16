@@ -6,6 +6,9 @@ For 1.2.2 release and previous ones, this is a copy/paste from FredericRP's Stan
 
 ## Unreleased
 
+### Changed
+- Do not use AssetBundles anymore, and Addressables are not... well...
+
 ## [1.3.0] - 2021-09-15
 
 ### Fixed
