@@ -6,6 +6,11 @@ For 1.2.2 release and previous ones, this is a copy/paste from FredericRP's Stan
 
 ## Unreleased
 
+## [1.3.2] - 2022-04-06
+
+### Fixed
+- Auto dependencies in package
+
 ## [1.3.1] - 2021-10-12
 
 ### Changed
